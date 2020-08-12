@@ -25,7 +25,6 @@
 
 <br />
 
----
 ## Github Stats
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chaoscaot444&show_icons=true&hide_border=true&theme=dark" />
