@@ -26,4 +26,4 @@
 
 ## Github Stats
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chaoscaot444&show_icons=true&hide_border=true&theme=dark" />
+[![Chaoscaot's github stats](https://github-readme-stats.vercel.app/api?username=Chaoscaot444&count_private=true)]
