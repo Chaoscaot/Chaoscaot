@@ -26,4 +26,4 @@
 
 ## Github Stats
 
-![Chaoscaot's github stats](https://github-readme-stats.vercel.app/api?username=Chaoscaot444&count_private=true&theme=dark)
+![Chaoscaot's github stats](https://github-readme-stats.vercel.app/api?username=Chaoscaot&count_private=true&theme=dark)
