@@ -22,12 +22,16 @@
  <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
  <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 
+<br/>
+
 ### Frameworks: 
 
  <img align="left" alt="Fabric" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/fabricmc/fabricmc.png" /> 
  <img align="left" alt="Bukkit" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bukkit/bukkit.png" /> 
  <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" /> 
  <img align="left" alt="Svelte" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png" /> 
+
+<br/>
 
 ### Tools:
 
@@ -40,6 +44,8 @@
 <img align="left" alt="Duckduckgo" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/duckduckgo/duckduckgo.png" />
 <img align="left" alt="Firefox" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png" />
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+
+<br/>
 
 ## Github Stats
 
