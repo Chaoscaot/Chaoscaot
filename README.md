@@ -7,7 +7,7 @@
 - 🌱 Rustfyin' my Code
 - 🏳 I speak German, English and some Latin
 
-### Languages:
+## Languages:
 
  <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /> 
  <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" /> 
@@ -26,7 +26,7 @@
 <br/>
 
 
-### Frameworks: 
+## Frameworks: 
 
  <img align="left" alt="Fabric" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/fabricmc/fabricmc.png" /> 
  <img align="left" alt="Bukkit" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bukkit/bukkit.png" /> 
@@ -37,7 +37,7 @@
 <br/>
 
 
-### Tools:
+## Tools:
 
 <img align="left" alt="Intellij Idea" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" /> 
 <img align="left" alt="Sublime-Text" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png" /> 
