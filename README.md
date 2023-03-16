@@ -4,26 +4,46 @@
 
 ## I'm a Student and Developer
 
-- 🌱 I'm currently learning Html & Php
+- 🌱 Rustfyin' my Code
 - 🏳 I speak German, English and some Latin
 
-### Languages and Tools:
+### Languages:
 
- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
- <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" /> 
- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="left" alt="Raspberry" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" />
- <img align="left" alt="PiHole" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/pihole/pihole.png" />
- <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+ <img float="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /> 
+ <img float="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" /> 
+ <img float="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" /> 
+ <img float="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" /> 
+ <img float="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /> 
+ <img float="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /> 
+ <img float="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+ <img float="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
+ <img float="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
+ <img float="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+ <img float="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+ <img float="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
 
-<br />
+### Frameworks: 
+
+ <img float="left" alt="Fabric" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/fabricmc/fabricmc.png" /> 
+ <img float="left" alt="Bukkit" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bukkit/bukkit.png" /> 
+ <img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" /> 
+ <img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/svelte/svelte.png" /> 
+
+### Tools:
+
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" /> 
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png" /> 
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png" /> 
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/gradle/gradle.png" /> 
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" /> 
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tauri/tauri.png" />
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/duckduckgo/duckduckgo.png" />
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png" />
+<img float="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 
 ## Github Stats
 
-![Chaoscaot's github stats](https://github-readme-stats.vercel.app/api?username=Chaoscaot&count_private=true&theme=dark)
+![Chaoscaot's github stats](https://github-readme-stats.vercel.app/api?username=Chaoscaot&count_private=true&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaoscaot&count_private=true&theme=dark&show_icons=true)
