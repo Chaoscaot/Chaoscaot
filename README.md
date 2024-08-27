@@ -40,7 +40,6 @@
 ## Tools:
 
 <img align="left" alt="Intellij Idea" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" /> 
-<img align="left" alt="Sublime-Text" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png" /> 
 <img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/gradle/gradle.png" /> 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" /> 
 <img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />
